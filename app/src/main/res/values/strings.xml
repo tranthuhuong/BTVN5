@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BTVN_Buoi5</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+</resources>
